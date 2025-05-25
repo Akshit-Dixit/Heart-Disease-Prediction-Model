@@ -15,5 +15,5 @@ This project uses a logistic regression model trained on a Kaggle heart disease 
 
 ## 📊 Dataset
 
-- Source: [Kaggle Heart Disease Dataset](https://www.kaggle.com/datasets)
-- Contains medical attributes like age, sex, chest pain type, blood pressure, cholesterol, etc.
+- Source: [Kaggle Heart Disease Dataset](https://drive.google.com/file/d/1CEql-OEexf9p02M5vCC1RDLXibHYE9Xz/view)
+- Contains medical attributes like age, sex, chest pain type, blood pressure, cholesterol, Target etc.
